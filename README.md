@@ -1,1 +1,2 @@
-read.me bla bla bla forever
+cargo-tracking
+The project online cargo tracking and transport management system is a system that is used to manage a transport company. Customers are able to place a pickup order online. The system will calculate the cost automatically. Then truck drivers will be dispatched automatically by the system to pick up the cargo and then update the cargo status. In the system all businesses and front end logic was implemented in PHP and MYSQL for the purpose of database support. JQuery was used to do report filtering. Methodology which will be used to develop this system is RAD. Project will run over the Apache2 server.
