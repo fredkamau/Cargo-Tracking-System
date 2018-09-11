@@ -1,0 +1,10 @@
+/*body {
+    visibility: hidden;
+}
+.printthis {
+    visibility: visible;
+}*/
+
+ .noprint * {
+          display:none;
+      }
